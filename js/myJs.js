@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Anh em tớ có điều này muốn hỏi, cậu nhớ phải trả lời thật lòng nhaa.",
-  text3: "Cậu yêu FMUC và anh em tớ có phải không nào ._.",
+  text1: "He luu bạn!",
+  text2: "Nếu bạn có quen người trong hình, hãy nhấn ok và trả lời 1 vài câu hỏi nhé",
+  text3: "Mình có phải là người rất thân quen và đáng nhớ với bạn không? Mau trả lời ._.",
   text4: "Nếu cậu không trả lời mà thoát ra tức là đồng ý rùi đó nha :v",
-  text5: "Không yêu???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "Nói cho tớ lí do cậu thích trai FMUC đi :vvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì các cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 3000",
+  text5: "Không, quen thân j đôu",
+  text6: "Đúng vậyy <3",
+  text7: "Ỏoooo, tại sao z?",
+  text8: "Gửi cho mình <3",
+  text9: "Vì Long đẹp try vlllll",
+  text10: "Tớ biết mà ^^ Thank you!! <3",
   text11:
-    "Chúc cậu một ngày 20/10 thật vui vẻ và nhiều ý nghĩa và mãi yêu ae tớ nhé",
+    "Chúc bạn có một ngày thật vui vẻ <3",
   text12: "Okii lunn <3",
 };
 
@@ -140,7 +140,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/fmuc.fptu";
+            window.location = "https://www.facebook.com/hood.red.397/";
           },
         });
       }
